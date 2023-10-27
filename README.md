@@ -12,8 +12,7 @@ I'm Kadir, a frontend developer who's currently a student in Turkey. I work prim
 </p>
 
 ## ✨ Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kad1rr&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kad1rr&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kad1rr&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kad1rr&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kad1rr&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kad1rr&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kad1rr&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kad1rr&theme=aura)
+
