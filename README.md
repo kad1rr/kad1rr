@@ -8,7 +8,7 @@ I'm Kadir, a frontend developer who's currently a student in Turkey. I work prim
 
 ## 💻 Technologies
 <p>
-  <img src="bun.svg" height="35" /> <img src="django.svg" height="35" /> <img src="express.svg" height="35" /> <img src="javascript.svg" height="35" /> <img src="mui.svg" height="35" /> <img src="postman.svg" height="35" /> <img src="python.svg" height="35" /> <img src="react.svg" height="35" /> <img src="rust.svg" height="35" /> <img src="tailwindcss.svg" height="35" /> <img src="typescript.svg" height="35" /> <img src="ubuntu.svg" height="35" />
+  <img src="bun.png" height="35" /> <img src="nodejs.png" height="35" /> <img src="html.png" height="35" /> <img src="css.png" height="35" /> <img src="bootstrap.png" height="35" /> <img src="figma.png" height="35" /> <img src="javascript.png" height="35" /> <img src="mui.png" height="35" /> <img src="python.png" height="35" /> <img src="react.png" height="35" /> <img src="rust.png" height="35" /> <img src="tailwind.png" height="35" /> <img src="typescript.png" height="35" /><img src="vscode.png" height="35" />
 </p>
 
 ## ✨ Stats
